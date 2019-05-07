@@ -20,7 +20,7 @@ There is also an Xilinx Forum thread where this project "DPU TRD for ZCU104" was
 Here is the "Demo Test" download link of google drive [141MB]: https://drive.google.com/open?id=1AyxDg1TRwMIcIaAdqrQdf2cvw4Nj0uen
 
 
-#===RUN the Application on your ZCU104===
+# ===RUN the Application on your ZCU104===
 ================Steps===================
 1. Download above "Demo Test", extract it, copy all the contents of "ZCU104_dpu_trd_test" folder into SD Card, now eject the card and put on ZCU104.
 2. Make ready the ZCU104 as the DNNDK User Guide, UG1327[Page 18] of Xilinx.
@@ -30,7 +30,7 @@ Here is the "Demo Test" download link of google drive [141MB]: https://drive.goo
 6. run "./resnet50.elf"
 7. Now you must see the result on the terminal.
 
-For connecting the ZCU104 in ethernet interface, please follow "DNNDK User Guide UG1327, Page 24"
+# For connecting the ZCU104 in ethernet interface, please follow "DNNDK User Guide UG1327, Page 24"
 =========================================
 
 If you get any queries then write us at: info@logictronix.com
