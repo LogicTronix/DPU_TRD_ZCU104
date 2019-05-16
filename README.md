@@ -3,8 +3,9 @@
 ----May 3, 2019----
 ----www.LogicTronix.com----
 ----email: info@logictronix.com----
-----Demo Test Project Version: v3.0----
+---Demo Test Project Version: v3.0---
 
+![Screenshot](https://github.com/LogicTronix/DPU_TRD_ZCU104/blob/master/dpu_trd_zcu104_V2.png)
 
 This is DNNDK DPU TRD for the ZCU104,we have build the "Demo Test" for the ZCU104. 
 We followed the PG338 DPU TRD of ZCU102 to build the DPU TRD for the ZCU104 FPGA. 
