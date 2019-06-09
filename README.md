@@ -1,4 +1,4 @@
-# DPU_TRD_ZCU104
+# DPU TRD for ZCU104
 
 ----May 3, 2019----
 ----www.LogicTronix.com----
