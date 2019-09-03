@@ -28,7 +28,7 @@ Here is the "Demo Test" download link of google drive [141MB]: https://drive.goo
 3. power cycle [turn on] the FPGA board
 4. open the serial ternimal program and connect with ZCU104 at 115200 baud rate
 5. change directory to "home"
-6. run "./resnet50.elf"
+6. run "./resnet50"
 7. Now you must see the result on the terminal.
 
 # For connecting the ZCU104 in ethernet interface, please follow "DNNDK User Guide UG1327, Page 24"
